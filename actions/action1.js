@@ -1,3 +1,3 @@
 function main(params) {
-  return { results: params };
+  return { action1_output: params };
 }
