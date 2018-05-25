@@ -15,7 +15,7 @@ const composition = {
                     "function": {
                         "exec": {
                             "kind": "nodejs:default",
-                            "code": "p => ({ a2in: p.a1out })"
+                            "code": "p => ({ action2_input_param1: p.action1_output })"
                         }
                     }
                 },
