@@ -1,2 +1,2 @@
 def main(args):
-    return { 'action2_output': args.get('action2_input_param1') }
+    return { 'action2_output': args.get('action2_input') }
