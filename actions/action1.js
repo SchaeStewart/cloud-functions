@@ -8,5 +8,5 @@ function isEmpty(obj) {
     for (x in obj) {
         return obj;
     }
-    return "action1 output";
+    return "action1 output edited";
 }
